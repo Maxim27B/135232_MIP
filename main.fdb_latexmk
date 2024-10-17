@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1728920658.38976 "main.aux" "main.bbl" "main" 1728920659.98765 0
+["bibtex main"] 1729163621.75825 "main.aux" "main.bbl" "main" 1729163623.27761 0
   "./literatura.bib" 1728138204 1048 a17013ea4d4e1df426e5c41496f78237 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1728920659 1166 c98ab11a8ac2cde5feea370ee09267b3 "pdflatex"
+  "main.aux" 1729163622 1166 3643ae3fbfd5eab32ce4526bebeaa292 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1728920658.75282 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1728920659.98804 0
-  "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728559967 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1729163622.01046 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1729163623.27801 0
+  "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729161505 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csss12.pk" 1727965863 16664 f67dc65ad855f85fe3214b1745b859d1 ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csss17.pk" 1727965865 26240 afaf3c1f838aa128f076b8f49185957c ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/csr12.pk" 1728082931 24532 ca283411bbfcdd3796e049f8a36bbc77 ""
@@ -67,6 +67,7 @@
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/extsizes.sty" 947705280 3240 8f6d502ca1d06cc8136c36580bba7618 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/size14.clo" 944556240 6214 cc6d832fdd2fc5f4a20ee1a002f45d0f ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1713599642 19440 9da9dcbb27470349a580fca7372d454b ""
@@ -93,12 +94,14 @@
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1728920653 2927 abcef6f13f08fa35277e44838bbf1dc4 ""
-  "main.aux" 1728920659 1166 c98ab11a8ac2cde5feea370ee09267b3 "pdflatex"
-  "main.bbl" 1728920658 245 ad7f184883d11d02c869effcc37bf026 "bibtex main"
-  "main.out" 1728920659 520 f2df29f1f64a6b7e3d9bc63187942809 "pdflatex"
-  "main.tex" 1728920653 2927 abcef6f13f08fa35277e44838bbf1dc4 ""
+  "STU-FIIT-zfv.png" 1729163467 2164 9bb640533798d51a30cb69dbda5136ea ""
+  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1729163619 3044 6ee7c8a606159b81f51ec9f41bda2624 ""
+  "main.aux" 1729163622 1166 3643ae3fbfd5eab32ce4526bebeaa292 "pdflatex"
+  "main.bbl" 1729163621 245 ad7f184883d11d02c869effcc37bf026 "bibtex main"
+  "main.out" 1729163622 520 f2df29f1f64a6b7e3d9bc63187942809 "pdflatex"
+  "main.tex" 1729163619 3044 6ee7c8a606159b81f51ec9f41bda2624 ""
   (generated)
   "main.aux"
   "main.log"

@@ -113,6 +113,10 @@ INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\main.aux
@@ -148,6 +152,13 @@ INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\tex\cslatex\base\il2cmtt.fd
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt12.tfm
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csss12.tfm
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
+INPUT .\STU-FIIT-zfv.png
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl12.tfm
 INPUT .\main.bbl

@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1729163621.75825 "main.aux" "main.bbl" "main" 1729163623.27761 0
+["bibtex main"] 1729532732.36864 "main.aux" "main.bbl" "main" 1729532733.93762 0
   "./literatura.bib" 1728138204 1048 a17013ea4d4e1df426e5c41496f78237 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1729163622 1166 3643ae3fbfd5eab32ce4526bebeaa292 "pdflatex"
+  "main.aux" 1729532733 1257 9d23b6ee6d008e24371112960fa1a62b "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1729163622.01046 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1729163623.27801 0
+["pdflatex"] 1729532732.6503 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1729532733.93824 0
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729161505 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csss12.pk" 1727965863 16664 f67dc65ad855f85fe3214b1745b859d1 ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csss17.pk" 1727965865 26240 afaf3c1f838aa128f076b8f49185957c ""
@@ -96,12 +96,12 @@
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "STU-FIIT-zfv.png" 1729163467 2164 9bb640533798d51a30cb69dbda5136ea ""
-  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1729163619 3044 6ee7c8a606159b81f51ec9f41bda2624 ""
-  "main.aux" 1729163622 1166 3643ae3fbfd5eab32ce4526bebeaa292 "pdflatex"
-  "main.bbl" 1729163621 245 ad7f184883d11d02c869effcc37bf026 "bibtex main"
-  "main.out" 1729163622 520 f2df29f1f64a6b7e3d9bc63187942809 "pdflatex"
-  "main.tex" 1729163619 3044 6ee7c8a606159b81f51ec9f41bda2624 ""
+  "STU-FIIT-zfv.png" 1729163917 2164 9bb640533798d51a30cb69dbda5136ea ""
+  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1729532730 3101 3da4c75dd0ab48fc17b36f3a65fc762a ""
+  "main.aux" 1729532733 1257 9d23b6ee6d008e24371112960fa1a62b "pdflatex"
+  "main.bbl" 1729532732 245 ad7f184883d11d02c869effcc37bf026 "bibtex main"
+  "main.out" 1729532733 788 98fa4aee593df90a73b86866a7e5b071 "pdflatex"
+  "main.tex" 1729532730 3101 3da4c75dd0ab48fc17b36f3a65fc762a ""
   (generated)
   "main.aux"
   "main.log"

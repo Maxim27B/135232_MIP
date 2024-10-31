@@ -1,8 +1,13 @@
-\begin{thebibliography}{Ola24}
+\begin{thebibliography}{Ter24}
 
 \bibitem[Ola24]{Oladipo:article}
 Tamilore Oladipo.
 \newblock How linkedin’s algorithm works, according to the linkedin team.
 \newblock {\em LinkedIn’s Algorithm}, February 2024.
+
+\bibitem[Ter24]{Terez:article}
+Alexander Terez.
+\newblock Linkedin algorithm: How does it work?
+\newblock {\em LinkedIn’s Algorithm}, June 2024.
 
 \end{thebibliography}

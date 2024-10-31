@@ -177,6 +177,7 @@ INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csss12.tfm
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT C:\Users\Maxim\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl12.tfm
 INPUT .\main.bbl
 INPUT .\main.bbl
@@ -187,6 +188,8 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csti12.pk
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csti12.pk
+INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
+INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\cssl12.pk
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\cssl12.pk
 INPUT C:\Users\Maxim\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csr12.pk

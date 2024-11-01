@@ -1,9 +1,14 @@
 \begin{thebibliography}{Man23}
 
+\bibitem[Koh24]{Kohút:article}
+Peter Kohút.
+\newblock Odporúčacie algoritmy v sociálnych aplikáciách.
+\newblock {\em Odporúčacie algoritmy}, October 2024.
+
 \bibitem[Man23]{Mangla:article}
 Puneet Mangla.
 \newblock Linkedin jobs recommendation systems.
-\newblock {\em LinkedIn’s Algorithm}, August 2023.
+\newblock {\em LinkedIn’s recommendation systems}, August 2023.
 
 \bibitem[Ola24]{Oladipo:article}
 Tamilore Oladipo.

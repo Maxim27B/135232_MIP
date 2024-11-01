@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.3)  31 OCT 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.3)  1 NOV 2024 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -336,7 +336,9 @@ File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 {C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (2.10336pt too wide) in paragraph at lines 62--63
+[]\IL2/cmr/m/n/14.4 Najprv keï nieèo zve-rej-níte bot za-radí vá¹ ob-sah do ka-te-gó-rie \IL2/cmr/bx/n/14.4 spam\IL2/cmr/m/n/14.4 ,
+ []
 
 
 
@@ -351,17 +353,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E6373A18F31934A7D7D65313EF70BF40;1588.
  ) 
 Here is how much of TeX's memory you used:
- 11669 strings out of 473898
- 188832 string characters out of 5726479
- 594789 words of memory out of 5000000
- 34362 multiletter control sequences out of 15000+600000
- 564414 words of font info for 49 fonts, out of 8000000 for 9000
+ 11672 strings out of 473898
+ 188869 string characters out of 5726479
+ 595789 words of memory out of 5000000
+ 34363 multiletter control sequences out of 15000+600000
+ 564990 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,485b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csti12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\cssl12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csr12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\csbx12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csss12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\cstt12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss17.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\csss17.pk>
-Output written on main.pdf (4 pages, 113923 bytes).
+ 75i,5n,79p,517b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csti12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\cssl12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csr12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\csbx12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csss12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\cstt12.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss17.pk> <C:\Users\Maxim\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi864\csss17.pk>
+Output written on main.pdf (4 pages, 123862 bytes).
 PDF statistics:
- 362 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 392 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

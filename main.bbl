@@ -1,5 +1,10 @@
 \begin{thebibliography}{Man23}
 
+\bibitem[Bar24]{Barnhart:article}
+Brent Barnhart.
+\newblock How the linkedin algorithm works in 2024.
+\newblock {\em LinkedIn`s' algorithm}, January 2024.
+
 \bibitem[Koh24]{Kohút:article}
 Peter Kohút.
 \newblock Odporúčacie algoritmy v sociálnych aplikáciách.

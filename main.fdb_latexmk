@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1730640441.53797 "main.aux" "main.bbl" "main" 1730640443.24153 0
+["bibtex main"] 1732030343.72975 "main.aux" "main.bbl" "main" 1732030345.96693 0
   "./literatura.bib" 1730587849 2511 e8ce60848aec476674e13fe1bb1a2c2d ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1730640442 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
+  "main.aux" 1732030344 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1730640441.84371 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1730640443.24193 0
+["pdflatex"] 1732030344.15476 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1732030345.96748 0
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729161505 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1727965864 14064 29128360ffbff81a16eb82b179a007f5 ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx12.pk" 1727965856 21956 a31ec61b9ed14c38e33fbf6eac25bad0 ""
@@ -99,11 +99,11 @@
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1730640439 7302 c53745a894bf3b3ca03840d0595e01e5 ""
-  "main.aux" 1730640442 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
-  "main.bbl" 1730640441 1498 295ffe448a25de45798ea63eff3ca167 "bibtex main"
-  "main.out" 1730640442 1272 da345ca1e99fd7300ebf100405411995 "pdflatex"
-  "main.tex" 1730640439 7302 c53745a894bf3b3ca03840d0595e01e5 ""
+  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1732030340 7302 c53745a894bf3b3ca03840d0595e01e5 ""
+  "main.aux" 1732030344 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
+  "main.bbl" 1732030344 1498 295ffe448a25de45798ea63eff3ca167 "bibtex main"
+  "main.out" 1732030344 1272 da345ca1e99fd7300ebf100405411995 "pdflatex"
+  "main.tex" 1732030340 7302 c53745a894bf3b3ca03840d0595e01e5 ""
   (generated)
   "main.aux"
   "main.log"

@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1730635044.12923 "main.aux" "main.bbl" "main" 1730635442.55337 0
+["bibtex main"] 1732030102.70125 "main.aux" "main.bbl" "main" 1732030163.25433 0
   "./literatura.bib" 1730587849 2511 e8ce60848aec476674e13fe1bb1a2c2d ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/alpha.bst" 1291864736 23907 a5f93555796fb564b924339521f10a7c ""
-  "main.aux" 1730635441 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
+  "main.aux" 1732030162 2922 33919542b8be3be276cfbbe5bace3c15 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1730635441.15819 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1730635442.55456 0
+["pdflatex"] 1732030161.8069 "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" "main.pdf" "main" 1732030163.25471 0
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729161505 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1727965864 14064 29128360ffbff81a16eb82b179a007f5 ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi600/csbx12.pk" 1727965856 21956 a31ec61b9ed14c38e33fbf6eac25bad0 ""
@@ -22,7 +22,15 @@
   "C:/Users/Maxim/AppData/Local/MiKTeX/fonts/pk/ljfour/public/csfonts/dpi720/cstt12.pk" 1728082664 19592 c83ef1c9aeeb2011de8e59f50a203317 ""
   "C:/Users/Maxim/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727966974 11948238 f76a9b62f9f54e5d785289b1b7e7c6ca ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csbx12.tfm" 867746696 2400 14c727257338e2e5de1c37661f5477cd ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/csr12.tfm" 867746812 2368 534050d3eb0d7d8715df311d93f46306 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/fonts/tfm/public/csfonts/cssl12.tfm" 867746838 2596 d5ea2a36ec8404713964bc5aa7551f43 ""
@@ -95,15 +103,17 @@
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/pdfpages/pppdftex.def" 1724159865 6591 60c681a6aa037069cb519709ca2e84b4 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1718356376 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
+  "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Maxim/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1730635440 7304 46f55b01231523492664ae045aef8ddc ""
-  "main.aux" 1730635441 2595 c80b12438b1545675e47c2b1a80c65df "pdflatex"
-  "main.bbl" 1730635044 1498 295ffe448a25de45798ea63eff3ca167 "bibtex main"
-  "main.out" 1730635441 1272 da345ca1e99fd7300ebf100405411995 "pdflatex"
-  "main.tex" 1730635440 7304 46f55b01231523492664ae045aef8ddc ""
+  "c:/Users/Maxim/Desktop/STU/MiP/Metody-inzinierskej-prace/main.tex" 1732030161 7769 3d05eba3e90c964a2143ee748f140a99 ""
+  "main.aux" 1732030162 2922 33919542b8be3be276cfbbe5bace3c15 "pdflatex"
+  "main.bbl" 1732030102 1498 295ffe448a25de45798ea63eff3ca167 "bibtex main"
+  "main.out" 1732030162 1611 b32535023a74eeaee1972bd85e07e64b "pdflatex"
+  "main.tex" 1732030161 7769 3d05eba3e90c964a2143ee748f140a99 ""
   (generated)
   "main.aux"
   "main.log"

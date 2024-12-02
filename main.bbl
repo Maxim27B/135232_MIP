@@ -1,50 +1,50 @@
-\begin{thebibliography}{Man23}
+\begin{thebibliography}{1}
 
-\bibitem[Ban24]{Bano:article}
-Rana Bano.
-\newblock Linkedin analytics: The complete guide for tracking metrics in 2024.
-\newblock {\em LinkedIn analytics}, March 2024.
-
-\bibitem[Bar24]{Barnhart:article}
-Brent Barnhart.
-\newblock How the linkedin algorithm works in 2024.
-\newblock {\em LinkedIn`s' algorithm}, January 2024.
-
-\bibitem[Gab23]{Gabric:article}
-Antonio Gabric.
-\newblock Linkedin algorithm – everything you need to know.
-\newblock {\em LinkedIn algorithm}, June 2023.
-
-\bibitem[Koh24]{Kohút:article}
-Peter Kohút.
-\newblock Odporúčacie algoritmy v sociálnych aplikáciách.
-\newblock {\em Odporúčacie algoritmy}, October 2024.
-
-\bibitem[Man23]{Mangla:article}
-Puneet Mangla.
-\newblock Linkedin jobs recommendation systems.
-\newblock {\em LinkedIn’s recommendation systems}, August 2023.
-
-\bibitem[New23]{Newberry:article}
-Christina Newberry.
-\newblock How does the linkedin algorithm work? [2024 changes explained].
-\newblock {\em LinkedIn Algorithm`s' Work}, October 2023.
-
-\bibitem[Ola24]{Oladipo:article}
-Tamilore Oladipo.
+\bibitem{1}
+T.~Oladipo.
 \newblock How linkedin’s algorithm works, according to the linkedin team.
 \newblock {\em LinkedIn’s Algorithm}, February 2024.
 
-\bibitem[Rod20]{Rodriguez:article}
-Jesus Rodriguez.
+\bibitem{Gabric:article}
+A.~Gabric.
+\newblock Linkedin algorithm – everything you need to know.
+\newblock {\em LinkedIn algorithm}, June 2023.
+
+\bibitem{Kohút:article}
+P.~Kohút.
+\newblock Odporúčacie algoritmy v sociálnych aplikáciách.
+\newblock {\em Odporúčacie algoritmy}, October 2024.
+
+\bibitem{Terez:article}
+A.~Terez.
+\newblock Linkedin algorithm: How does it work?
+\newblock {\em LinkedIn’s Algorithm}, June 2024.
+
+\bibitem{Barnhart:article}
+B.~Barnhart.
+\newblock How the linkedin algorithm works in 2024.
+\newblock {\em LinkedIn`s' algorithm}, January 2024.
+
+\bibitem{Rodriguez:article}
+J.~Rodriguez.
 \newblock How linkedin uses machine learning in its recruiter recommendation
   systems.
 \newblock {\em LinkedIn, Machine Learning, Recommendation Engine, Recommender
   Systems, Recruitment}, October 2020.
 
-\bibitem[Ter24]{Terez:article}
-Alexander Terez.
-\newblock Linkedin algorithm: How does it work?
-\newblock {\em LinkedIn’s Algorithm}, June 2024.
+\bibitem{Mangla:article}
+P.~Mangla.
+\newblock Linkedin jobs recommendation systems.
+\newblock {\em LinkedIn's Recommendation Systems}, August 2023.
+
+\bibitem{Bano:article}
+R.~Bano.
+\newblock Linkedin analytics: The complete guide for tracking metrics in 2024.
+\newblock {\em LinkedIn analytics}, March 2024.
+
+\bibitem{Newberry:article}
+C.~Newberry.
+\newblock How does the linkedin algorithm work? [2024 changes explained].
+\newblock {\em LinkedIn Algorithm`s' Work}, October 2023.
 
 \end{thebibliography}

@@ -1,29 +1,29 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{1}
 T.~Oladipo.
 \newblock How linkedin’s algorithm works, according to the linkedin team.
-\newblock {\em LinkedIn’s Algorithm}, February 2024.
+\newblock {\em Buffer Blog}, February 2024.
 
 \bibitem{2}
 A.~Gabric.
 \newblock Linkedin algorithm – everything you need to know.
-\newblock {\em LinkedIn Algorithm}, June 2023.
+\newblock {\em ViralSpy Blog}, June 2023.
 
 \bibitem{3}
 P.~Kohút.
 \newblock Odporúčacie algoritmy v sociálnych aplikáciách.
-\newblock {\em Odporúčacie algoritmy}, October 2024.
+\newblock {\em Prezi}, October 2024.
 
 \bibitem{4}
 A.~Terez.
 \newblock Linkedin algorithm: How does it work?
-\newblock {\em LinkedIn’s Algorithm}, June 2024.
+\newblock {\em Octopus CRM Blog}, June 2024.
 
 \bibitem{5}
 B.~Barnhart.
 \newblock How the linkedin algorithm works in 2024.
-\newblock {\em LinkedIn's Algorithm}, January 2024.
+\newblock {\em Sprout Social}, January 2024.
 
 \bibitem{6}
 J.~Rodriguez.
@@ -34,7 +34,7 @@ J.~Rodriguez.
 \bibitem{7}
 P.~Mangla.
 \newblock Linkedin jobs recommendation systems.
-\newblock {\em LinkedIn's Recommendation Systems}, August 2023.
+\newblock {\em PyImageSearch Blog}, August 2023.
 
 \bibitem{8}
 R.~Bano.
@@ -43,7 +43,13 @@ R.~Bano.
 
 \bibitem{9}
 C.~Newberry.
-\newblock How does the linkedin algorithm work? 2024 changes explained.
+\newblock How does the linkedin algorithm work? - 2024 changes explained.
 \newblock {\em Hootsuite Blog}, October 2023.
+
+\bibitem{10}
+F.~Rose-Collins.
+\newblock Marketing sociálnych médií a stratégia linkedin - understanding
+  the secrets to boosting your organic reach.
+\newblock {\em Ranktracker Blog}, November 2023.
 
 \end{thebibliography}

@@ -7,14 +7,14 @@ The style file: unsrt.bst
 Database file #1: literatura.bib
 You've used 9 entries,
             1791 wiz_defined-function locations,
-            501 strings with 5147 characters,
-and the built_in function-call counts, 1187 in all, are:
+            480 strings with 4260 characters,
+and the built_in function-call counts, 1199 in all, are:
 = -- 99
 > -- 36
 < -- 0
 + -- 18
 - -- 9
-* -- 35
+* -- 47
 := -- 225
 add.period$ -- 27
 call.type$ -- 9

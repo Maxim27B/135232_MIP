@@ -3,13 +3,9 @@
 \usepackage[slovak]{babel}
 \usepackage[IL2]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{url}
 \usepackage{hyperref}
-\usepackage[utf8]{inputenc}
 \usepackage{float}
-\usepackage{wrapfig}
 \usepackage{pdfpages}
-\usepackage{array}
 \usepackage{tabularx}
 \usepackage{graphicx}
 
@@ -24,7 +20,7 @@
 {\texttt{Zdroj, ktorý usmernil:~\cite{1}}}
 }
 
-\date{\small 27. september 2024}
+\date{\small 07. December 2024}
 
 \begin{document}
 
@@ -51,7 +47,7 @@ Algoritmy regulujú mnohé aspekty odporúčaní s cieľom zlepšiť používate
 	\item Analýza a prognóza kariérneho vývoja
   \end{itemize}
 
-Okrem toho, pochopenie fungovania algoritmov LinkedIn vám umožní efektívnejšie propagovať vašu značku alebo spoločnosť sústredením sa na vytváranie hodnotného obsahu pre správne publikum.
+Okrem toho, pochopenie fungovania algoritmov LinkedIn vám umožní efektívnejšie propagovať vašu značku alebo spoločnosť sústredením sa na vytváranie hodnotného obsahu pre správne publikum.~\cite{3}
 
 \newpage
 \section{Typy odporúčacích algoritmov} \label{Typy}
@@ -73,21 +69,23 @@ V sieti LinkedIn sa používa niekoľko typov odporúčacích algoritmov:
     \label{tab:typy}
 \end{table}
 
-Tieto algoritmy pomáhajú zlepšiť interakcie, nájsť užitočné zdroje a rozšíriť vašu sieť.~\cite{3} Na obrázku nižšie môžete vidieť, ako často sa používajú rôzne typy odporúčacích algoritmov LinkedIn.
+Tieto algoritmy pomáhajú zlepšiť interakcie, nájsť užitočné zdroje a rozšíriť vašu sieť.~\cite{4} Na obrázku nižšie môžeme vidieť, ako často sa používajú rôzne typy odporúčacích algoritmov LinkedIn.
 
 \begin{figure}[H]
 	\hspace*{-3cm}
 	\includegraphics[width=1.4\textwidth]{graph.png}
 \end{figure}
 
+Hybridné metódy sa používajú najčastejšie, pretože majú lepšiu personalizáciu. Takéto systémy môžu zohľadňovať explicitné preferencie používateľa a implicitné signály (napr. údaje o prehliadaní a interakcii). Tento prístup umožňuje sieti LinkedIn poskytovať vysoko personalizované odporúčania, napríklad navrhovať pracovné ponuky prispôsobené profilu používateľa a jeho historickému správaniu.~\cite{5}
+
 \section{Ako algoritmy fungujú} \label{fungovanie}
-\textbf{Filtrovanie obsahu}: Pozrime sa na odporúčania na príklade publikačných materiálov. Algoritmus LinkedIn používa rôzne faktory na určenie relevantnosti vášho príspevku pre vaše cieľové publikum. Najprv keď niečo zverejníte bot zaradí váš obsah do kategórie spam, nízka kvalita alebo vysoká kvalita podľa hodnoty.~\cite{4}
+\textbf{Filtrovanie obsahu}: Pozrime sa na odporúčania na príklade publikačných materiálov. Algoritmus LinkedIn používa rôzne faktory na určenie relevantnosti vášho príspevku pre vaše cieľové publikum. Najprv keď niečo zverejníte bot zaradí váš obsah do kategórie spam, nízka kvalita alebo vysoká kvalita podľa hodnoty.~\cite{6}
 
-\textbf{Relevantný obsah}: Platforma sa snaží vyzdvihnúť viac vedomostí a skúseností, o ktoré sa odborníci delia. Pre používateľov algoritmus určuje, ktoré odborné znalosti sú podstatné, pomocou identifikacii záujmov používateľa na základe informácií o jeho profile a činnosti.~\cite{5}
+\textbf{Relevantný obsah}: Platforma sa snaží vyzdvihnúť viac vedomostí a skúseností, o ktoré sa odborníci delia. Pre používateľov algoritmus určuje, ktoré odborné znalosti sú podstatné, pomocou identifikacii záujmov používateľa na základe informácií o jeho profile a činnosti.~\cite{7}
 
-\textbf{Pracovné odporúčania}: LinkedIn umožňuje náborovým pracovníkom vyhľadávať kandidátov na základe ich zručností a skúseností. Navyše poskytuje skvelú platformu na nábor talentovaných zamestnancov, najmä pre začínajúce podniky, ktoré nie sú dostatočne viditeľné v porovnaní s nadnárodnými korporáciami.~\cite{6}
+\textbf{Pracovné odporúčania}: LinkedIn umožňuje náborovým pracovníkom vyhľadávať kandidátov na základe ich zručností a skúseností. Navyše poskytuje skvelú platformu na nábor talentovaných zamestnancov, najmä pre začínajúce podniky, ktoré nie sú dostatočne viditeľné v porovnaní s nadnárodnými korporáciami.~\cite{8}
 
-Existuje však aj iný, modernejší typ práce algoritmov – s využitím strojového učenia. Tento prístup umožňuje algoritmom prispôsobovať sa, učiť sa z údajov a zlepšovať svoju presnosť. To dramaticky mení efektivitu a schopnosti systémov LinkedIn a vedie k revolúcii v ich fungovaní.
+Existuje však aj iný, modernejší typ práce algoritmov - s využitím strojového učenia. Tento prístup umožňuje algoritmom prispôsobovať sa, učiť sa z údajov a zlepšovať svoju presnosť. To dramaticky mení efektivitu a schopnosti systémov LinkedIn a vedie k revolúcii v ich fungovaní.
 
 \section{Vplyv strojového učenia na algoritmy spoločnosti Linkedin} \label{strojové učenie}
 Pomocou strojového učenia systém kombinuje niekoľko kľúčových komponentov:
@@ -97,14 +95,21 @@ Pomocou strojového učenia systém kombinuje niekoľko kľúčových komponento
 	\item Personalizácia: prispôsobuje sa individuálnym preferenciám náborového pracovníka a zlepšuje odporúčania.
 \end{itemize}
 
-LinkedIn môže aj využívať umelú inteligenciu na odporúčanie vhodných pracovných príležitostí, poskytovanie návrhov kurzov na zvyšovanie kvalifikácie, navrhovanie náborovým pracovníkom najlepších talentov na voľné pracovné miesta atď.~\cite{7}
+LinkedIn môže aj využívať umelú inteligenciu na odporúčanie vhodných pracovných príležitostí, poskytovanie návrhov kurzov na zvyšovanie kvalifikácie, navrhovanie náborovým pracovníkom najlepších talentov na voľné pracovné miesta atď.~\cite{9}
 
 \section{Uplatňovanie odporúčaní na rôzne časti platformy} \label{Uplatňovanie}
+LinkedIn používa odporúčacie algoritmy na zlepšenie efektívnosti interakcie používateľov s platformou.
+Algoritmy môžu pomáhať v rôznych aspektoch fungovania sociálnej siete.
+Okrem vyššie uvedených pracovných pokynov a personalizovaného informačného kanála, taktiež sa odporúčajú aj vzdelávací obsah, skupiny a komunity na základe záujmov používateľov, optimalizujú sa reklamné odporúčania.
+
+V roku 2024 sa algoritmus LinkedIn vyvinul tak, aby uprednostňoval obsah, ktorý je pre používateľov najrelevantnejší a najzaujímavejší.
+Využíva strategický prístup k marketingu na sieti prostredníctvom analýzy odbornej relevantnosti obsahu na sociálnych platformách, ako je LinkedIn.~\cite{10}
+
 
 \section{Zbieranie a analýza údajov na účely odporúčaní} \label{analýza údajov}
 LinkedIn zbiera a analyzuje veľké množstvo údajov na poskytovanie odporúčaní. Tieto odporúčania sú spracované algoritmami strojového učenia na vytvorenie personalizovaných odporúčaní, ako napríklad pracovných miest, obsahu, ľudí, ktorých si môžete pridať, a kurzov.
 
-Algoritmus sa používa aj na predpovedanie kariéry používateľa a pomáha mu plánovať jeho profesionálny rozvoj. LinkedIn analyzuje interakcie používateľov (lajky, komentáre, reposty), profilové údaje (zručnosti, pracovné skúsenosti, vzdelanie a záujmy) a súvislosti interakcií.~\cite{8}
+Algoritmus sa používa aj na predpovedanie kariéry používateľa a pomáha mu plánovať jeho profesionálny rozvoj. LinkedIn analyzuje interakcie používateľov (lajky, komentáre, reposty), profilové údaje (zručnosti, pracovné skúsenosti, vzdelanie a záujmy) a súvislosti interakcií.~\cite{11}
 
 Analýza platformy pomáha používateľom nájsť správne kariérne príležitosti, rozšíriť sieť kontaktov a zlepšiť svoje publikácie, aby sa dostali k správnemu publiku. Analytické nástroje sú užitočné aj na sledovanie úspešnosti obsahu a pochopenie preferencií cieľového prostredia.
 
@@ -114,16 +119,16 @@ Analýza platformy pomáha používateľom nájsť správne kariérne príležit
 \textbf{Experimentujte s typmi obsahu}: Rôzne formáty príspevkov prinesú rôzne výsledky, preto sa oplatí experimentovať a zistiť, ktorý z nich má u vášho publika najväčší ohlas.
 
 \textbf{Publikujte príspevky v správny čas}:
-Štatistika hovorí, že všetko, čo bolo zverejnené medzi 9:00 a 17:00 v pracovných dňoch, malo najvyššiu mieru zapojenia.~\cite{9}
+Štatistika hovorí, že všetko, čo bolo zverejnené medzi 9:00 a 17:00 v pracovných dňoch, malo najvyššiu mieru zapojenia.~\cite{12}
 
-\textbf{Vytvorte si profesionálny profil na LinkedIn}: Vyberte si jedinečný profilový obrázok a banner. Napíšte podrobnú sekciu skúseností – zahrňte body úspechov vo svojej úlohe.
+\textbf{Vytvorte si profesionálny profil na LinkedIn}: Vyberte si jedinečný profilový obrázok a banner. Napíšte podrobnú sekciu skúseností - zahrňte body úspechov vo svojej úlohe.
 Pridajte zručnosti a odporúčania.
 
 \textbf{Buďte relevantní a informatívni}: Musíte poznať schopnosti a záujmy cieľovej skupiny, ktorú sa snažíte osloviť. Príspevky na tieto témy sa s väčšou pravdepodobnosťou rozšíria aj za hranice vašich sledovateľov alebo známych.
 
-\textbf{Dôležitosť konzistentnosti v publikáciách}: Pravidelne publikujte obsah, aby ste udržali svoje publikum v pozornosti a preukázali svoj záujem o vytváranie hodnoty. Vytvorte si plán publikovania, ktorý bude v súlade s aktivitou vášho publika.\cite{10}
+\textbf{Dôležitosť konzistentnosti v publikáciách}: Pravidelne publikujte obsah, aby ste udržali svoje publikum v pozornosti a preukázali svoj záujem o vytváranie hodnoty. Vytvorte si plán publikovania, ktorý bude v súlade s aktivitou vášho publika.\cite{13}
 
-Na koniec môžeme zhrnúť informácie uvedené v článku a zdôrazniť kľúčové témy
+Na koniec zhrnieme informácie uvedené v článku a zdôrazníme kľúčové témy
 
 \section{Záver} \label{zaver}
 Odporúčacie algoritmy spoločnosti LinkedIn sa neustále zlepšujú. Platforma počíta s vašimi záujmami, interakciou s kolegami a aktuálnymi oblasťami vašej profesie. Na rozdiel od iných sociálnych sietí LinkedIn sa zameriava na zdieľanie vedomostí a odborných znalostí, a ne iba na komunikáciu medzi používateľmi.
